@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-11T14:05:14 IST" name="Default suite" finished-at="2024-12-11T14:05:43 IST" duration-ms="29590">
+    <groups>
+    </groups>
+    <test started-at="2024-12-11T14:05:14 IST" name="Default test" finished-at="2024-12-11T14:05:43 IST" duration-ms="29590">
+      <class name="Demoblaze.Demoblaze">
+        <test-method is-config="true" signature="MyBeforeTest()[pri:0, instance:Demoblaze.Demoblaze@39109136]" started-at="2024-12-11T14:05:14 IST" name="MyBeforeTest" finished-at="2024-12-11T14:05:15 IST" duration-ms="1339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyBeforeTest -->
+        <test-method signature="Register()[pri:1, instance:Demoblaze.Demoblaze@39109136]" started-at="2024-12-11T14:05:15 IST" name="Register" description="Register" finished-at="2024-12-11T14:05:21 IST" duration-ms="5537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method signature="Login()[pri:2, instance:Demoblaze.Demoblaze@39109136]" started-at="2024-12-11T14:05:21 IST" name="Login" description="Login" finished-at="2024-12-11T14:05:25 IST" duration-ms="4626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="HasItems()[pri:3, instance:Demoblaze.Demoblaze@39109136]" started-at="2024-12-11T14:05:25 IST" name="HasItems" description="Check the listed Categories has Items" finished-at="2024-12-11T14:05:25 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HasItems -->
+        <test-method signature="AddRandToCart()[pri:4, instance:Demoblaze.Demoblaze@39109136]" started-at="2024-12-11T14:05:25 IST" name="AddRandToCart" description="Add random item to the cart" finished-at="2024-12-11T14:05:32 IST" duration-ms="6127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddRandToCart -->
+        <test-method signature="RemoveItem()[pri:5, instance:Demoblaze.Demoblaze@39109136]" started-at="2024-12-11T14:05:32 IST" name="RemoveItem" description="Remove item from cart" finished-at="2024-12-11T14:05:36 IST" duration-ms="4897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveItem -->
+        <test-method signature="CompleteCheckout()[pri:6, instance:Demoblaze.Demoblaze@39109136]" started-at="2024-12-11T14:05:36 IST" name="CompleteCheckout" description="Complete successful checkout with random item" finished-at="2024-12-11T14:05:41 IST" duration-ms="4659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompleteCheckout -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:Demoblaze.Demoblaze@39109136]" started-at="2024-12-11T14:05:41 IST" name="AfterTest" finished-at="2024-12-11T14:05:43 IST" duration-ms="2228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- Demoblaze.Demoblaze -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
